@@ -1,0 +1,268 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{006FB55C-D692-43E3-A3E8-7B2B6A5987F2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>JuegoFutbol</RootNamespace>
+    <AssemblyName>FootBall Checker</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>IMGS\football.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddingTeamsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddingTeamsForm.Designer.cs">
+      <DependentUpon>AddingTeamsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CornerSalida.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CornerSalida.Designer.cs">
+      <DependentUpon>CornerSalida.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Equipos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Equipos.Designer.cs">
+      <DependentUpon>Equipos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="falta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="falta.Designer.cs">
+      <DependentUpon>falta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FootballMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FootballMain.Designer.cs">
+      <DependentUpon>FootballMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formation.cs" />
+    <Compile Include="Goleador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Goleador.Designer.cs">
+      <DependentUpon>Goleador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Partido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Partido.Designer.cs">
+      <DependentUpon>Partido.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Penal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Penal.Designer.cs">
+      <DependentUpon>Penal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="saque.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="saque.Designer.cs">
+      <DependentUpon>saque.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShowInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShowInfo.Designer.cs">
+      <DependentUpon>ShowInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="team.cs" />
+    <Compile Include="jugador.cs" />
+    <Compile Include="main.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TeamVS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TeamVS.Designer.cs">
+      <DependentUpon>TeamVS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RedCard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RedCard.Designer.cs">
+      <DependentUpon>RedCard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YellowCard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YellowCard.Designer.cs">
+      <DependentUpon>YellowCard.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="Properties\DataSources\main.datasource" />
+    <None Include="Properties\DataSources\Partido.datasource" />
+    <None Include="Properties\DataSources\team.datasource" />
+    <None Include="Properties\DataSources\TeamVS.datasource" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AddingTeamsForm.resx">
+      <DependentUpon>AddingTeamsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CornerSalida.resx">
+      <DependentUpon>CornerSalida.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Equipos.resx">
+      <DependentUpon>Equipos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="falta.aa-DJ.resx">
+      <DependentUpon>falta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="falta.resx">
+      <DependentUpon>falta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FootballMain.resx">
+      <DependentUpon>FootballMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Goleador.resx">
+      <DependentUpon>Goleador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Partido.resx">
+      <DependentUpon>Partido.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Penal.resx">
+      <DependentUpon>Penal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="saque.resx">
+      <DependentUpon>saque.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowInfo.resx">
+      <DependentUpon>ShowInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TeamVS.resx">
+      <DependentUpon>TeamVS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RedCard.resx">
+      <DependentUpon>RedCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YellowCard.resx">
+      <DependentUpon>YellowCard.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Properties\DataSources\AddingTeamsForm.datasource" />
+    <None Include="Properties\DataSources\Equipo.datasource" />
+    <None Include="Properties\DataSources\Equipos.datasource" />
+    <None Include="Properties\DataSources\FootballMain.datasource" />
+    <None Include="Properties\DataSources\Formation.datasource" />
+    <None Include="Properties\DataSources\Goleador.datasource" />
+    <None Include="Properties\DataSources\Jugador.datasource" />
+    <None Include="IMGS\soccer-team-logo_23-2147510342.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="IMGS\533698218.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="IMGS\flaming-soccer-ball-png-18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="IMGS\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="IMGS\YouTube-Play-Button-PNG-Free-Download-396x279.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="IMGS\YouTube-Play-Button-PNG-Free-Download-396x279 copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="IMGS\YouTube-Pblay-Button-PNG-Free-Download-396x279.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="IMGS\field_big.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="IMGS\Tarjeta Roja.png" />
+    <None Include="IMGS\Tarjeta Amarilla.png" />
+    <None Include="IMGS\NZ8DUF.jpg" />
+    <None Include="IMGS\4489789-4470094-9485503453-vs.pn.png" />
+    <None Include="IMGS\Falta copy.png" />
+    <None Include="IMGS\Falta copy1.png" />
+    <Content Include="IMGS\football.ico" />
+    <None Include="IMGS\images.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

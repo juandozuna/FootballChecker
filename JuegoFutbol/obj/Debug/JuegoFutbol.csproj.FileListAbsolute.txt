@@ -1,0 +1,50 @@
+\\mac\home\documents\visual studio 2017\Projects\JuegoFutbol\JuegoFutbol\obj\Debug\JuegoFutbol.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2017\Projects\JuegoFutbol\JuegoFutbol\obj\Debug\JuegoFutbol.Equipos.resources
+\\mac\home\documents\visual studio 2017\Projects\JuegoFutbol\JuegoFutbol\obj\Debug\JuegoFutbol.Properties.Resources.resources
+\\mac\home\documents\visual studio 2017\Projects\JuegoFutbol\JuegoFutbol\obj\Debug\JuegoFutbol.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Visual Studio 2017\Projects\JuegoFutbol\JuegoFutbol\obj\Debug\JuegoFutbol.FootballMain.resources
+\\mac\home\documents\visual studio 2017\Projects\JuegoFutbol\JuegoFutbol\bin\Debug\FootBall Checker.exe.config
+\\mac\home\documents\visual studio 2017\Projects\JuegoFutbol\JuegoFutbol\bin\Debug\FootBall Checker.exe
+\\mac\home\documents\visual studio 2017\Projects\JuegoFutbol\JuegoFutbol\bin\Debug\FootBall Checker.pdb
+\\mac\home\documents\visual studio 2017\Projects\JuegoFutbol\JuegoFutbol\obj\Debug\FootBall Checker.exe
+\\mac\home\documents\visual studio 2017\Projects\JuegoFutbol\JuegoFutbol\obj\Debug\FootBall Checker.pdb
+\\mac\home\documents\visual studio 2017\Projects\JuegoFutbol\JuegoFutbol\obj\Debug\JuegoFutbol.AddingTeamsForm.resources
+\\mac\home\documents\visual studio 2017\Projects\JuegoFutbol\JuegoFutbol\obj\Debug\JuegoFutbol.TeamVS.resources
+C:\Users\ricar\Desktop\JuegoFutbol\JuegoFutbol\bin\Debug\FootBall Checker.exe.config
+C:\Users\ricar\Desktop\JuegoFutbol\JuegoFutbol\bin\Debug\FootBall Checker.exe
+C:\Users\ricar\Desktop\JuegoFutbol\JuegoFutbol\bin\Debug\FootBall Checker.pdb
+C:\Users\ricar\Desktop\JuegoFutbol\JuegoFutbol\obj\Debug\JuegoFutbol.csprojResolveAssemblyReference.cache
+C:\Users\ricar\Desktop\JuegoFutbol\JuegoFutbol\obj\Debug\JuegoFutbol.AddingTeamsForm.resources
+C:\Users\ricar\Desktop\JuegoFutbol\JuegoFutbol\obj\Debug\JuegoFutbol.Equipos.resources
+C:\Users\ricar\Desktop\JuegoFutbol\JuegoFutbol\obj\Debug\JuegoFutbol.FootballMain.resources
+C:\Users\ricar\Desktop\JuegoFutbol\JuegoFutbol\obj\Debug\JuegoFutbol.Properties.Resources.resources
+C:\Users\ricar\Desktop\JuegoFutbol\JuegoFutbol\obj\Debug\JuegoFutbol.TeamVS.resources
+C:\Users\ricar\Desktop\JuegoFutbol\JuegoFutbol\obj\Debug\JuegoFutbol.csproj.GenerateResource.Cache
+C:\Users\ricar\Desktop\JuegoFutbol\JuegoFutbol\obj\Debug\FootBall Checker.exe
+C:\Users\ricar\Desktop\JuegoFutbol\JuegoFutbol\obj\Debug\FootBall Checker.pdb
+C:\Users\ricar\Desktop\JuegoFutbol\JuegoFutbol\obj\Debug\JuegoFutbol.Partido.resources
+C:\Users\ricar\Desktop\JuegoFutbol\JuegoFutbol\obj\Debug\JuegoFutbol.Goleador.resources
+\\Mac\Home\Documents\INTEC\Presentacions Tecnología\PROYECTO FINAL\JuegoFutbolUPRIC\JuegoFutbol\bin\Debug\FootBall Checker.exe.config
+\\Mac\Home\Documents\INTEC\Presentacions Tecnología\PROYECTO FINAL\JuegoFutbolUPRIC\JuegoFutbol\bin\Debug\FootBall Checker.exe
+\\Mac\Home\Documents\INTEC\Presentacions Tecnología\PROYECTO FINAL\JuegoFutbolUPRIC\JuegoFutbol\bin\Debug\FootBall Checker.pdb
+\\Mac\Home\Documents\INTEC\Presentacions Tecnología\PROYECTO FINAL\JuegoFutbolUPRIC\JuegoFutbol\obj\Debug\JuegoFutbol.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\INTEC\Presentacions Tecnología\PROYECTO FINAL\JuegoFutbolUPRIC\JuegoFutbol\obj\Debug\JuegoFutbol.AddingTeamsForm.resources
+\\Mac\Home\Documents\INTEC\Presentacions Tecnología\PROYECTO FINAL\JuegoFutbolUPRIC\JuegoFutbol\obj\Debug\JuegoFutbol.Equipos.resources
+\\Mac\Home\Documents\INTEC\Presentacions Tecnología\PROYECTO FINAL\JuegoFutbolUPRIC\JuegoFutbol\obj\Debug\JuegoFutbol.FootballMain.resources
+\\Mac\Home\Documents\INTEC\Presentacions Tecnología\PROYECTO FINAL\JuegoFutbolUPRIC\JuegoFutbol\obj\Debug\JuegoFutbol.Goleador.resources
+\\Mac\Home\Documents\INTEC\Presentacions Tecnología\PROYECTO FINAL\JuegoFutbolUPRIC\JuegoFutbol\obj\Debug\JuegoFutbol.Partido.resources
+\\Mac\Home\Documents\INTEC\Presentacions Tecnología\PROYECTO FINAL\JuegoFutbolUPRIC\JuegoFutbol\obj\Debug\JuegoFutbol.Properties.Resources.resources
+\\Mac\Home\Documents\INTEC\Presentacions Tecnología\PROYECTO FINAL\JuegoFutbolUPRIC\JuegoFutbol\obj\Debug\JuegoFutbol.TeamVS.resources
+\\Mac\Home\Documents\INTEC\Presentacions Tecnología\PROYECTO FINAL\JuegoFutbolUPRIC\JuegoFutbol\obj\Debug\JuegoFutbol.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\INTEC\Presentacions Tecnología\PROYECTO FINAL\JuegoFutbolUPRIC\JuegoFutbol\obj\Debug\FootBall Checker.exe
+\\Mac\Home\Documents\INTEC\Presentacions Tecnología\PROYECTO FINAL\JuegoFutbolUPRIC\JuegoFutbol\obj\Debug\FootBall Checker.pdb
+\\Mac\Home\Documents\INTEC\Presentacions Tecnología\PROYECTO FINAL\JuegoFutbolUPRIC\JuegoFutbol\bin\Debug\aa-DJ\FootBall Checker.resources.dll
+\\Mac\Home\Documents\INTEC\Presentacions Tecnología\PROYECTO FINAL\JuegoFutbolUPRIC\JuegoFutbol\obj\Debug\JuegoFutbol.FALTA.resources
+\\Mac\Home\Documents\INTEC\Presentacions Tecnología\PROYECTO FINAL\JuegoFutbolUPRIC\JuegoFutbol\obj\Debug\JuegoFutbol.FALTA.aa-DJ.resources
+\\Mac\Home\Documents\INTEC\Presentacions Tecnología\PROYECTO FINAL\JuegoFutbolUPRIC\JuegoFutbol\obj\Debug\aa-DJ\FootBall Checker.resources.dll
+\\Mac\Home\Documents\INTEC\Presentacions Tecnología\PROYECTO FINAL\JuegoFutbolUPRIC\JuegoFutbol\obj\Debug\JuegoFutbol.Penal.resources
+\\Mac\Home\Documents\INTEC\Presentacions Tecnología\PROYECTO FINAL\JuegoFutbolUPRIC\JuegoFutbol\obj\Debug\JuegoFutbol.CornerSalida.resources
+\\Mac\Home\Documents\INTEC\Presentacions Tecnología\PROYECTO FINAL\JuegoFutbolUPRIC\JuegoFutbol\obj\Debug\JuegoFutbol.saque.resources
+\\Mac\Home\Documents\INTEC\Presentacions Tecnología\PROYECTO FINAL\JuegoFutbolUPRIC\JuegoFutbol\obj\Debug\JuegoFutbol.YellowCard.resources
+\\Mac\Home\Documents\INTEC\Presentacions Tecnología\PROYECTO FINAL\JuegoFutbolUPRIC\JuegoFutbol\obj\Debug\JuegoFutbol.ShowInfo.resources
+\\Mac\Home\Documents\INTEC\Presentacions Tecnología\PROYECTO FINAL\JuegoFutbolUPRIC\JuegoFutbol\obj\Debug\JuegoFutbol.RedCard.resources

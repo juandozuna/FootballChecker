@@ -1,0 +1,11 @@
+\\mac\home\documents\visual studio 2017\Projects\JuegoFutbol\JuegoFutbol\obj\Release\JuegoFutbol.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2017\Projects\JuegoFutbol\JuegoFutbol\obj\Release\JuegoFutbol.Equipos.resources
+\\mac\home\documents\visual studio 2017\Projects\JuegoFutbol\JuegoFutbol\obj\Release\JuegoFutbol.FootballMain.resources
+\\mac\home\documents\visual studio 2017\Projects\JuegoFutbol\JuegoFutbol\obj\Release\JuegoFutbol.Properties.Resources.resources
+\\mac\home\documents\visual studio 2017\Projects\JuegoFutbol\JuegoFutbol\obj\Release\JuegoFutbol.csproj.GenerateResource.Cache
+\\mac\home\documents\visual studio 2017\Projects\JuegoFutbol\JuegoFutbol\bin\Release\FootBall Checker.exe.config
+\\mac\home\documents\visual studio 2017\Projects\JuegoFutbol\JuegoFutbol\bin\Release\FootBall Checker.exe
+\\mac\home\documents\visual studio 2017\Projects\JuegoFutbol\JuegoFutbol\bin\Release\FootBall Checker.pdb
+\\mac\home\documents\visual studio 2017\Projects\JuegoFutbol\JuegoFutbol\obj\Release\JuegoFutbol.AddingTeamsForm.resources
+\\mac\home\documents\visual studio 2017\Projects\JuegoFutbol\JuegoFutbol\obj\Release\FootBall Checker.exe
+\\mac\home\documents\visual studio 2017\Projects\JuegoFutbol\JuegoFutbol\obj\Release\FootBall Checker.pdb
